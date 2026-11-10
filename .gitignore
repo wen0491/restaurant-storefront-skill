@@ -1,0 +1,20 @@
+# Case-specific inputs and outputs stay local.
+private/
+cases/
+inputs/
+outputs/
+tmp/
+.env
+.env.*
+node_modules/
+__pycache__/
+*.zip
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.psd
+*.ai
+*.pdf
+*.pptx
+*.xlsx
