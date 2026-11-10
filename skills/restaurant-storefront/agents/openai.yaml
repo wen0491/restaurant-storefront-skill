@@ -1,0 +1,4 @@
+interface:
+  display_name: "餐饮门头焕新 Skill"
+  short_description: "将餐饮需求、风格参考与现场限制转成门头概念图，并逐项检查与记录修改"
+  default_prompt: "使用 $restaurant-storefront 制作一张餐饮门头概念效果图，先整理硬约束，再生图并逐项核验。"
